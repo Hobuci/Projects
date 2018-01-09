@@ -1,0 +1,12 @@
+C:\Users\Richard\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Richard\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Richard\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Richard\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Hobo\c# projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Hobo\c# projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\_Richard\c# projects\angolszofejtő\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\_Richard\c# projects\angolszofejtő\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\_Richard\c# projects\angolszofejtő\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\_Richard\c# projects\angolszofejtő\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\_Richard\c# projects\angolszofejtő\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Richard\c# projects\OLD\WordshakeCheat\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Richard\c# projects\OLD\WordshakeCheat\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Richard\c# projects\OLD\WordshakeCheat\ConsoleApplication1\obj\Debug\WordshakeCheat.csprojResolveAssemblyReference.cache
+C:\Richard\c# projects\OLD\WordshakeCheat\ConsoleApplication1\obj\Debug\WordshakeCheat.csproj.CoreCompileInputs.cache
+C:\Richard\c# projects\OLD\WordshakeCheat\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Richard\c# projects\OLD\WordshakeCheat\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
